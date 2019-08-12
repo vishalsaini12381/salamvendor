@@ -1,0 +1,16 @@
+.card-profile.vendorprofile{
+	background-image: url('http://gropse.com/gropse.com/design/fundmaster.com/admin/images/userback.jpg');    
+	background-position: center; 
+	background-size:cover;
+}
+.card-header .card-title{
+    width:100%;
+}
+.card-header .card-title span{
+    font-size: 14px;
+    float: right;
+    background: #267efa;
+    color: #fff;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
